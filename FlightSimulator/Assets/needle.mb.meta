@@ -1,10 +1,55 @@
 fileFormatVersion: 2
 guid: 4f6345bc3d4268b4298f6cc7cbbbfb50
-timeCreated: 1526686688
-licenseType: Pro
 ModelImporter:
   serializedVersion: 22
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: group
+    100002: //RootNode
+    100004: pasted__pCube3
+    100006: pCone1
+    100008: pCone2
+    100010: pCube2
+    100012: pCube3
+    100014: pCylinder1
+    100016: transform1
+    100018: transform2
+    100020: typeMesh1
+    400000: group
+    400002: //RootNode
+    400004: pasted__pCube3
+    400006: pCone1
+    400008: pCone2
+    400010: pCube2
+    400012: pCube3
+    400014: pCylinder1
+    400016: transform1
+    400018: transform2
+    400020: typeMesh1
+    2100000: lambert1
+    2100002: typeShader4
+    2300000: pasted__pCube3
+    2300002: pCone1
+    2300004: pCone2
+    2300006: pCube2
+    2300008: pCube3
+    2300010: pCylinder1
+    2300012: typeMesh1
+    3300000: pasted__pCube3
+    3300002: pCone1
+    3300004: pCone2
+    3300006: pCube2
+    3300008: pCube3
+    3300010: pCylinder1
+    3300012: typeMesh1
+    4300000: pCone1
+    4300002: pCone2
+    4300004: typeMesh1
+    4300006: pCube2
+    4300008: pCube3
+    4300010: pasted__pCube3
+    4300012: pCylinder1
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -24,6 +69,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
