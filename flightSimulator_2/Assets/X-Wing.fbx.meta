@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: fb19524debd298243854ad70b87fe64d
+timeCreated: 1526931725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CameraWithoutDOF
+    100002: CentralSection
+    100004: CentralSectionGreebles1
+    100006: CentralSectionGreebles2
+    100008: CentralSectionHullPlates
+    100010: LeftWingBottom
+    100012: LeftWingBottomEngineAndGreebles
+    100014: LeftWingBottomHullPlates
+    100016: LeftWingTop
+    100018: LeftWingTopEngineAndGreebles
+    100020: LeftWingTopHullPlates
+    100022: R2Body
+    100024: R2Head
+    100026: R2HullPlates
+    100028: RightWingBottom
+    100030: RightWingBottomEngineAndGreebles
+    100032: RightWingBottomHullPlates
+    100034: RightWingTop
+    100036: RightWingTopEngineAndGreebles
+    100038: RightWingTopHullPlates
+    100040: WingRotation
+    100042: //RootNode
+    100044: X-Wing
+    400000: CameraWithoutDOF
+    400002: CentralSection
+    400004: CentralSectionGreebles1
+    400006: CentralSectionGreebles2
+    400008: CentralSectionHullPlates
+    400010: LeftWingBottom
+    400012: LeftWingBottomEngineAndGreebles
+    400014: LeftWingBottomHullPlates
+    400016: LeftWingTop
+    400018: LeftWingTopEngineAndGreebles
+    400020: LeftWingTopHullPlates
+    400022: R2Body
+    400024: R2Head
+    400026: R2HullPlates
+    400028: RightWingBottom
+    400030: RightWingBottomEngineAndGreebles
+    400032: RightWingBottomHullPlates
+    400034: RightWingTop
+    400036: RightWingTopEngineAndGreebles
+    400038: RightWingTopHullPlates
+    400040: WingRotation
+    400042: //RootNode
+    400044: X-Wing
+    2000000: CameraWithoutDOF
+    2100000: ScratchedMetal
+    2100002: ScratchedMetalDark
+    2100004: ReflectiveGlass
+    2100006: ScratchedMetalYellow
+    2100008: ScratchedMetalRed
+    2100010: MetalWhite
+    2100012: MetalPurple
+    2100014: MetalGrey
+    2100016: ReflectiveGlassRed
+    2100018: YellowEngineGlow
+    2300000: CentralSection
+    2300002: CentralSectionGreebles1
+    2300004: CentralSectionGreebles2
+    2300006: CentralSectionHullPlates
+    2300008: LeftWingBottom
+    2300010: LeftWingBottomEngineAndGreebles
+    2300012: LeftWingBottomHullPlates
+    2300014: LeftWingTop
+    2300016: LeftWingTopEngineAndGreebles
+    2300018: LeftWingTopHullPlates
+    2300020: R2Body
+    2300022: R2Head
+    2300024: R2HullPlates
+    2300026: RightWingBottom
+    2300028: RightWingBottomEngineAndGreebles
+    2300030: RightWingBottomHullPlates
+    2300032: RightWingTop
+    2300034: RightWingTopEngineAndGreebles
+    2300036: RightWingTopHullPlates
+    3300000: CentralSection
+    3300002: CentralSectionGreebles1
+    3300004: CentralSectionGreebles2
+    3300006: CentralSectionHullPlates
+    3300008: LeftWingBottom
+    3300010: LeftWingBottomEngineAndGreebles
+    3300012: LeftWingBottomHullPlates
+    3300014: LeftWingTop
+    3300016: LeftWingTopEngineAndGreebles
+    3300018: LeftWingTopHullPlates
+    3300020: R2Body
+    3300022: R2Head
+    3300024: R2HullPlates
+    3300026: RightWingBottom
+    3300028: RightWingBottomEngineAndGreebles
+    3300030: RightWingBottomHullPlates
+    3300032: RightWingTop
+    3300034: RightWingTopEngineAndGreebles
+    3300036: RightWingTopHullPlates
+    4300000: CentralSection
+    4300002: CentralSectionGreebles1
+    4300004: CentralSectionGreebles2
+    4300006: CentralSectionHullPlates
+    4300008: R2Body
+    4300010: R2Head
+    4300012: R2HullPlates
+    4300014: LeftWingBottom
+    4300016: LeftWingBottomHullPlates
+    4300018: LeftWingBottomEngineAndGreebles
+    4300020: LeftWingTop
+    4300022: LeftWingTopHullPlates
+    4300024: LeftWingTopEngineAndGreebles
+    4300026: RightWingTop
+    4300028: RightWingTopEngineAndGreebles
+    4300030: RightWingTopHullPlates
+    4300032: RightWingBottom
+    4300034: RightWingBottomEngineAndGreebles
+    4300036: RightWingBottomHullPlates
+    7400000: WingRotation|WingRotationAction.002
+    7400002: CameraWithoutDOF|WingRotationAction.002
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
