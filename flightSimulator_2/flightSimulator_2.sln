@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightSimulator_2", "flightSimulator_2.csproj", "{77DF2C2B-2932-D69A-A549-E801E38700D0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flightSimulator_2.Plugins", "flightSimulator_2.Plugins.csproj", "{3FA66922-2041-8E42-02E2-8E634EA6C988}"
